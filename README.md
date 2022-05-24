@@ -901,15 +901,7 @@
 
 #### 21、社招校招汇总
 
-- 《《[逆袭进大厂](https://github.com/forthespada/InterviewGuide)  也就是《InterViewGuide》V4- 2021.06.17 by 阿秀》[百度云链接](https://pan.baidu.com/s/1b153vXtVjpFUs4KkbmLPSQ )   提取码：9u76
-
-- 《《[逆袭进大厂](https://github.com/forthespada/InterviewGuide)  也就是《InterViewGuide》V3- 2021.04.05 by 阿秀》 [百度云链接](https://pan.baidu.com/s/1ufHyDMP6cOAeal7CDXbExQ)     提取码：kzew 
-
-- 《[逆袭进大厂](https://github.com/forthespada/InterviewGuide)  超全面试总结强烈推荐、C++、操作系统、计算机网络、MySQL、Redis等》V1<br>[百度云链接](https://pan.baidu.com/s/14VFpE0X8nAhQtkTliOzePA )   提取码：6lxd 
-
-- 《《[逆袭进大厂](https://github.com/forthespada/InterviewGuide)  超全面试总结强烈推荐、C++、操作系统、计算机网络、MySQL、Redis等》V2》[百度云链接](https://pan.baidu.com/s/18UoSWI7CSKYE3jfybBP-Cw)  提取码：zogg
-
-- 《[逆袭进大厂](https://github.com/forthespada/InterviewGuide) 超全面试总结强烈推荐、C++、操作系统、计算机网络、MySQL、Redis等》V0<br>[百度云链接](https://pan.baidu.com/s/1RCHHSAzSKUSlLlmKXJeiNw )   提取码：aa06  
+- 《阿秀的学习笔记》-校招使用，[点此直达](https://interviewguide.cn)
 
 - 《计算机校招直播视频、2021.02.25晚视频号录播》 [百度云链接](https://pan.baidu.com/s/1QLDmX1O7QZNWjb2Rr9Pxuw )  提取码：w0ez 
 
