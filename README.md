@@ -5,20 +5,20 @@
   <a href="https://www.zhihu.com/people/tuo-ba-a-xiu"><img src="https://img.shields.io/badge/知乎-拓跋阿秀-informational.svg" alt="知乎"></a>
    <a href="https://blog.csdn.net/songhao19?spm=1000.2115.3001.5343&type=blog"><img src="https://img.shields.io/badge/CSDN-拓跋阿秀-important.svg" alt="CSDN"></a>
        <a href="https://blog.nowcoder.net/hello32"><img src="https://img.shields.io/badge/牛客网-拱白菜的阿秀-9cf" alt="牛客网"></a>
-    <a href="https://github.com/forthespada/InterviewGuide"><img src="https://img.shields.io/badge/GitHub-计算机校招社招面试题汇总-critical.svg" alt="八股文">      <a href="https://github.com/forthespada/CSLearning"><img src="https://img.shields.io/badge/推荐阅读-大佬好文-import.svg" alt="学习"></a>
+    <a href="https://github.com/forthespada/InterviewGuide"><img src="https://img.shields.io/badge/GitHub-计算机校招社招面试题汇总-critical.svg" alt="八股文">      <a href="https://interviewguide.cn/#/"><img src="https://img.shields.io/badge/推荐阅读-大佬好文-import.svg" alt="学习"></a>
            <a href="https://github.com/forthespada/CS-Books"><img src="https://img.shields.io/badge/PDF-免费计算机书籍-lightgrey.svg" alt="免费PDF"></a>
         </p>
 
 
-#### 1、👉 推荐：**如果国内访问Github网速较慢，可以访问码云**，<a href="https://gitee.com/ForthEspada/CS-Books" target="_blank">点此直达 </a>
+#### 1、👉 如果国内访问Github网速较慢，我在码云也放了一份书籍资源，国内访问速度更快，<a href="https://gitee.com/ForthEspada/CS-Books" target="_blank">点此直达 </a>
 
 本仓库**持续更新**中，后续会陆续分享更多经典电子书，**强烈建议大家 Star 下本仓库**，下次找书可以直接 **Ctrl + F**，找书再也不愁 ！ 
 
-#### 2、计算机求职网站，适用于计算机校招应届生以及毕业三年之内的社招求职党，<a href="https://interviewguide.cn/#/" target="_blank">点我直达</a>
+#### 2、🔥🔥🔥强烈推荐一个计算机求职网站，适用于计算机校招应届生以及毕业三年之内的社招求职党，<a href="https://interviewguide.cn/#/" target="_blank">点我直  达</a>
 
->附赠两个云服务器优惠信息：
+>简单附赠两个云服务器优惠信息：
 >
->【阿里云】云服务器狂欢特惠，**2核2G5M** 轻量级应用服务器 **60** 元/年【阿秀目前使用】   <a href="https://www.aliyun.com/minisite/goods?userCode=z83rmooz" target="_blank">传送门</a> 
+>【阿里云】云服务器狂欢特惠，**2核2G5M** 轻量级应用服务器 **60** 元/年【阿秀目前使用】   <a href="http://1v9.xyz/1NfKlv" target="_blank">传送门</a> 
 >
 >【腾讯云】轻量应用服务器限时秒杀，**1核2G6M** 限时首年**74**元/年【阿秀强烈推荐】 <a href="https://curl.qcloud.com/R21rJgZ7" target="_blank">传送门</a>
 
@@ -28,7 +28,15 @@
 
 #### 5、😜发现一个相当不错的计算机各类种语言&学科学习路线仓库， <a href="https://github.com/awesome-cs-community/developer-roadmap-zh-CN" target="_blank">点此查看</a>
 
-#### 6、:books:超过1000本！计算机经典书籍PDF分享
+#### 6、赞赏
+
+<div align=left>
+    <p>这些书籍基本都是我从一个盗版电子书网站上收集到的：网址kanshuy1234.com，现在分享出来希望能对大家有所帮助，自己也花了很久时间整理出来的。<br>
+      如果觉得本仓库有用，赏赐一块钱，买杯奶茶喝可好？感谢您了~</p>
+<figure class="half" align="center">
+    <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.4/202012/支付宝赞赏4.png" style="right;zoom: 40%;" />
+                                                                                                                        <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.4/202012/微信赞赏4.png"  style="right;zoom: 40%;" />
+                                                                                                                         </figure></div>
 
 >点击下列目录直接跳转书籍所在类别，但有时目录跳转会失灵...如果没有没有正常跳转可以动动小手向下拉即可，全部的书籍都在本页面。 
 >
@@ -947,19 +955,6 @@
 - 《平凡的世界、路遥》  [百度云链接](https://pan.baidu.com/s/1hNPgA3YlllyEuc-fBw2lhg )  提取码：vaa6 
 
 -------
-
-
-
-#### Donate
-
-<div align=left>
-    <p>这些书籍是我在一个盗版计算机书籍网站上找到的，并且花了很久时间整理出来的。<br>
-      如果觉得本仓库有用，赏赐一块钱，买杯奶茶喝可好？感谢您了~</p>
-<figure class="half" align="right">
-    <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.4/202012/支付宝赞赏4.png" style="right;zoom: 35%;" />
-                                                                                                                        <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.4/202012/微信赞赏4.png"  style="right;zoom: 35%;" />
-                                                                                                                         </figure></div>
-
 
 
 
