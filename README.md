@@ -14,17 +14,15 @@
 
 本仓库**持续更新**中，后续会陆续分享更多经典电子书，**强烈建议大家 Star 下本仓库**，下次找书可以直接 **Ctrl + F**，找书再也不愁 ！ 
 
-#### 2、🔥🔥🔥我把自己秋招时的学习笔记开源并做成一个网站了，适用于计算机校招应届生以及毕业三年之内的社招求职党，<a href="https://interviewguide.cn/#/" target="_blank">点我直达</a>
-
 >简单附赠两个云服务器优惠信息：
 >
 >【阿里云】云服务器狂欢特惠，**2核2G5M** 轻量级应用服务器 **60** 元/年【阿秀目前使用】   <a href="http://1v9.xyz/1NfKlv" target="_blank">传送门</a> 
 >
 >【腾讯云】轻量应用服务器限时秒杀，**1核2G6M** 限时首年**74**元/年【阿秀强烈推荐】 <a href="https://curl.qcloud.com/R21rJgZ7" target="_blank">传送门</a>
 
-####   3、❤️计算机校招求职学习网站
+####   2、🔥🔥🔥计算机校招求职学习网站
 
-我把**自己以前校招上岸字节跳动的学习笔记**做成了一个网站，绝对有用，欢迎使用，[传送门](https://interviewguide.cn/notes/01-guide/web-guide-reading.html)！
+我把**自己秋招时的上岸字节跳动的学习笔记**做成一个网站了，适用于**计算机校招应届生以及毕业三年之内的社招求职党**，<a href="https://interviewguide.cn/#/" target="_blank">传送门</a>
 
 <div align="center">
   <a href="https://interviewguide.cn/notes/01-guide/web-guide-reading.html">
@@ -34,13 +32,13 @@
 
   
 
-#### 4、👍🏻两位字节跳动后端研发工程师学习笔记，<a href="./Doc/other.md" target="_blank">点此一键免费获取</a> 
+#### 3、👍🏻两位字节跳动后端研发工程师学习笔记，<a href="./Doc/other.md" target="_blank">点此一键免费获取</a> 
 
-#### 5、⭐计算机经典图书榜单Top50，<a href="./Doc/当当Top50.md" target="_blank">点此一键免费获取</a> 
+#### 4、⭐计算机经典图书榜单Top50，<a href="./Doc/当当Top50.md" target="_blank">点此一键免费获取</a> 
 
-#### 6、😜发现一个相当不错的计算机各类种语言&学科学习路线仓库， <a href="https://github.com/awesome-cs-community/developer-roadmap-zh-CN" target="_blank">点此查看</a>
+#### 5、😜发现一个相当不错的计算机各类种语言&学科学习路线仓库， <a href="https://github.com/awesome-cs-community/developer-roadmap-zh-CN" target="_blank">点此查看</a>
 
-#### 7、赞赏
+#### 6、赞赏
 
 <div align=left>
     <p>这些书籍基本都是我从一个盗版电子书网站上收集到的，网址是：kanshuy1234.com，现在分享出来希望能对大家有所帮助，自己也花了很久时间整理出来的。<br>
