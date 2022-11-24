@@ -10,6 +10,12 @@
         </p>
 
 
+
+
+> 简介：🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~
+
+
+
 #### 1、👉 如果国内访问Github网速较慢，我在码云也放了一份书籍资源，国内访问速度更快，<a href="https://gitee.com/ForthEspada/CS-Books" target="_blank">点此直达 </a>
 
 本仓库**持续更新**中，后续会陆续分享更多经典电子书，**强烈建议大家 Star 下本仓库**，下次找书可以直接 **Ctrl + F**，找书再也不愁 ！ 
@@ -35,7 +41,7 @@
 
 #### 4、👍🏻两位字节跳动后端研发工程师学习笔记，<a href="./Doc/other.md" target="_blank">点此一键免费获取</a> 
 
-#### 5、⭐计算机经典图书榜单Top50&互联网一二线中厂校招面试PDF合集，<a href="./Doc/当当Top50.md" target="_blank">点此一键免费获取</a> 
+#### 5、⭐计算机经典图书榜单Top50，<a href="./Doc/当当Top50.md" target="_blank">点此一键免费获取</a> 
 
 #### 6、😜发现一个相当不错的计算机各类种语言&学科学习路线仓库， <a href="https://github.com/awesome-cs-community/developer-roadmap-zh-CN" target="_blank">点此查看</a>
 

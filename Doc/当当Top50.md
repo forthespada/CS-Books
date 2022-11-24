@@ -1,4 +1,26 @@
-<h1 align="center">计算机经典图书Top50</h1>
+<h1 align="center">计算机经典图书Top50&互联网一二线中厂校招面试PDF合集</h1>
+
+## 1、互联网一二线中厂校招面试PDF合集
+
+<img  src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202211242037481.png" align="middle" style="zoom:50%;"  />
+     <img  src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202211242037190.png" align="middle" style="zoom:50%;"  />
+  <img  src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202211242037292.png" align="middle" style="zoom:50%;"  />
+
+
+
+
+
+### 下载方式
+
+扫描下方二维码，回复关键字” **PDF**“，即可获取最新互联网校招面经合集！
+
+<img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202211242044949.jpg"  align="middle" style="zoom:150%;" >
+
+
+
+
+
+## 2、计算机经典图书Top50
 
 偶然间在当当图书榜看到了一份计算机经典图书Top50榜单，由于这份榜单中很多图书都是珍贵书籍，我已经尽力收集了相应的PDF电子版，现在免费分享给大家！
 
@@ -98,7 +120,7 @@
 - 《操作系统导论》
 - 《算法导论》
 
-#### 下载方式
+### 下载方式
 
 扫描下方二维码，回复关键字” **005**“，即可获取我精心收集的计算机经典图书Top50！
 
