@@ -124,4 +124,4 @@
 
 扫描下方二维码，回复关键字” **005**“，即可获取我精心收集的计算机经典图书Top50！
 
-<img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202203261416899.png"  align="middle" style="zoom:50%;" >
+<img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202211242044949.jpg"  align="middle" style="zoom:120%;" >
