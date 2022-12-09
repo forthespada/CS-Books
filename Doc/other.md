@@ -14,18 +14,19 @@
 
 
 
-#### 2、第一份笔记-出自抖音后端研发工程师阿秀
+#### 2、第二份笔记-出自抖音后端研发工程师阿秀
 
 阿秀，本科与研究生均于**普通二本学校就读**，研二时开始自学C++8个月，秋招共计投 94 家公司，笔试54场，面试34场，拿华为、百度、深信服、字节跳动 SP 等6个中大厂offer，最终顺利签约字节跳动抖音部门，现担任抖音部门全栈开发工程师一枚。
 
-#### 笔记下载方式
+#### 笔记网站
 
-扫描下方二维码，回复关键字” **PDF**“，即可获取阿秀本人原创的计算机求职笔记！
+阿秀把**自己秋招时的上岸字节跳动的学习笔记**做成一个网站了，适用于**计算机校招应届生以及毕业三年之内的社招求职党**，<a href="https://interviewguide.cn/#/" target="_blank">传送门</a>
 
-<img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202203261416899.png" style="width:300px;" />
+<div align="center">
+  <a href="https://interviewguide.cn/notes/01-guide/web-guide-reading.html">
+  <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205161146636.png" target="_blank">
+  </a>
+</div>
 
- 
 
-本仓库无偿分享各种计算机书籍、各种专业**PDF**资料以及个人笔记资料等，仓库所有权归仓库作者[阿秀](https://mp.weixin.qq.com/s/gRw25aRFBVB0lUhBAJqV5g)（公众号【[<font color="#a52a2a">**拓跋阿秀**</font>](https://mp.weixin.qq.com/s/gRw25aRFBVB0lUhBAJqV5g)】）所有。在此承诺本仓库**永不收费**，永远免费分享给有需要的人，希望自己的**幸苦结晶**能够帮助到曾经那些像我一样的小白、新手、在校生们，为那些曾经像我一样迷茫的人指明一条路。 
 
-**告诉他们，你是可以的！**

@@ -14,7 +14,7 @@
 
 本仓库**持续更新**中，后续会陆续分享更多经典电子书，**强烈建议大家 Star 下本仓库**，下次找书可以直接 **Ctrl + F**，找书再也不愁 ！ 
 
->简单附赠两个云服务器优惠信息：
+>简单附赠两个云服务器优惠信息： 
 >
 >【阿里云】云服务器狂欢特惠，**2核2G5M** 轻量级应用服务器 **60** 元/年【阿秀目前使用】   <a href="http://1v9.xyz/1NfKlv" target="_blank">传送门</a> 
 >
@@ -29,17 +29,17 @@
   <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205161146636.png" target="_blank">
   </a>
 </div>
+#### 3、学习计算机八九年收集到的一些不错的资料免费分享，包括清华北大计算机课程资源等，[点此一键白嫖](https://interviewguide.cn/notes/07-resources/01-free/01-introduce.html)
 
+#### 4、👍🏻走心内推！字节跳动核心岗位在职员工校招社招内推方式，[传送门](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247507684&idx=1&sn=72aa278890931b4551391f5f008fad60&chksm=ce262299f951ab8fa668ab148c94296fe8e2baf712bd65c2495897d03ceb8e70e1ce6a8b9648&token=867943050&lang=zh_CN#rd)
 
-#### 3、👍🏻走心内推！字节跳动核心岗位在职员工校招社招内推方式，[传送门](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247507684&idx=1&sn=72aa278890931b4551391f5f008fad60&chksm=ce262299f951ab8fa668ab148c94296fe8e2baf712bd65c2495897d03ceb8e70e1ce6a8b9648&token=867943050&lang=zh_CN#rd)
+#### 5、👍🏻两位字节跳动后端研发工程师学习笔记，<a href="./Doc/other.md" target="_blank">点此一键免费获取</a> 
 
-#### 4、👍🏻两位字节跳动后端研发工程师学习笔记，<a href="./Doc/other.md" target="_blank">点此一键免费获取</a> 
+#### 6、⭐计算机经典图书榜单Top50&互联网一二线中厂校招面试PDF合集，<a href="./Doc/当当Top50.md" target="_blank">点此一键免费获取</a> 
 
-#### 5、⭐计算机经典图书榜单Top50&互联网一二线中厂校招面试PDF合集，<a href="./Doc/当当Top50.md" target="_blank">点此一键免费获取</a> 
+#### 7、😜发现一个相当不错的计算机各类种语言&学科学习路线仓库， <a href="https://github.com/awesome-cs-community/developer-roadmap-zh-CN" target="_blank">点此查看</a>
 
-#### 6、😜发现一个相当不错的计算机各类种语言&学科学习路线仓库， <a href="https://github.com/awesome-cs-community/developer-roadmap-zh-CN" target="_blank">点此查看</a>
-
-#### 7、赞赏
+#### 8、赞赏
 
 <div align=left>
     <p>这些书籍基本都是我从一个盗版电子书网站上收集到的，网址是：kanshuy1234.com，现在分享出来希望能对大家有所帮助，自己也花了很久时间整理出来的。<br>
