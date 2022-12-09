@@ -29,9 +29,9 @@
   <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205161146636.png" target="_blank">
   </a>
 </div>
-#### 3、学习计算机八九年收集到的一些不错的资料免费分享，包括清华北大计算机课程资源等，[点此一键白嫖](https://interviewguide.cn/notes/07-resources/01-free/01-introduce.html)
+#### 3、😄学习计算机八九年收集到的一些不错的资料免费分享，包括清华北大计算机课程资源等，[点此一键白嫖](https://interviewguide.cn/notes/07-resources/01-free/01-introduce.html)
 
-#### 4、👍🏻走心内推！字节跳动核心岗位在职员工校招社招内推方式，[传送门](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247507684&idx=1&sn=72aa278890931b4551391f5f008fad60&chksm=ce262299f951ab8fa668ab148c94296fe8e2baf712bd65c2495897d03ceb8e70e1ce6a8b9648&token=867943050&lang=zh_CN#rd)
+#### 4、❤️走心内推！字节跳动核心岗位在职员工校招社招内推方式，[传送门](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247507684&idx=1&sn=72aa278890931b4551391f5f008fad60&chksm=ce262299f951ab8fa668ab148c94296fe8e2baf712bd65c2495897d03ceb8e70e1ce6a8b9648&token=867943050&lang=zh_CN#rd)
 
 #### 5、👍🏻两位字节跳动后端研发工程师学习笔记，<a href="./Doc/other.md" target="_blank">点此一键免费获取</a> 
 
