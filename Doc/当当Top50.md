@@ -12,11 +12,11 @@
 
 ### 下载方式
 
-扫描下方二维码，回复关键字” **PDF**“，即可获取最新互联网校招面经合集！
+扫描下方二维码，回复关键字”**面经合集**“，即可获取最新互联网校招面经合集！
 
-<img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202211242044949.jpg"  align="middle" style="zoom:150%;" >
-
-
+<div align="center">
+ <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205222330709.png" style="zoom:50%;" />
+</div>
 
 
 
@@ -124,4 +124,6 @@
 
 扫描下方二维码，回复关键字” **005**“，即可获取我精心收集的计算机经典图书Top50！
 
-<img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202211242044949.jpg"  align="middle" style="zoom:120%;" >
+<div align="center">
+ <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205222330709.png" style="zoom:50%;" />
+</div>
