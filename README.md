@@ -10,6 +10,12 @@
         </p>
 
 
+**0**、🔥🔥🔥良心推荐一个计算机学习网站，可能是我用过**最好的计算机学习网站**，可以**刷算法、C/C++、Java、硬件、前端**等，还有**大厂面经、面试真题**等。
+
+下面是一些我用过的其中一些比较好的在线题库：[C语言练习题库](https://www.nowcoder.com/link/pc_kol_aaaxiu01)、[C++练习题库](https://www.nowcoder.com/link/pc_kol_aaaxiu03)、[算法-面试必刷101](https://www.nowcoder.com/link/pc_kol_aaaxiu04)、[计算机基础语法练习](https://www.nowcoder.com/link/pc_kol_aaaxiu02)
+
+现在是免费注册的，据我所知后面注册可能要收费了，如果你有类似的需要建议你现在注册一个，正所谓：**不白嫖就是亏**！！！
+
 #### 1、👉 如果国内访问Github网速较慢，我在码云也放了一份书籍资源，国内访问速度更快，<a href="https://gitee.com/ForthEspada/CS-Books" target="_blank">点此直达 </a>
 
 本仓库**持续更新**中，后续会陆续分享更多经典电子书，**强烈建议大家 Star 下本仓库**，下次找书可以直接 **Ctrl + F**，找书再也不愁 ！ 
