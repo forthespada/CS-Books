@@ -2,9 +2,9 @@
 
 ## 1、互联网一二线中厂校招面试PDF合集
 
-<img  src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202211242037481.png" align="middle" style="zoom:50%;"  />
-     <img  src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202211242037190.png" align="middle" style="zoom:50%;"  />
-  <img  src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202211242037292.png" align="middle" style="zoom:50%;"  />
+<img  src="https://oss.interviewguide.cn/img/202211242037481.png" align="middle" style="zoom:50%;"  />
+     <img  src="https://oss.interviewguide.cn/img/202211242037190.png" align="middle" style="zoom:50%;"  />
+  <img  src="https://oss.interviewguide.cn/img/202211242037292.png" align="middle" style="zoom:50%;"  />
 
 
 
@@ -15,7 +15,7 @@
 扫描下方二维码，回复关键字”**面经合集**“，即可获取最新互联网校招面经合集！
 
 <div align="center">
- <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205222330709.png" style="zoom:50%;" />
+ <img src="https://oss.interviewguide.cn/img/202205222330709.png" style="zoom:50%;" />
 </div>
 
 
@@ -26,7 +26,7 @@
 
 **下载方式在文末**
 
-<img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202203261420890.png" alt="当前页面中的书籍全部收录好了" style="zoom:50%;" />
+<img src="https://oss.interviewguide.cn/img/202203261420890.png" alt="当前页面中的书籍全部收录好了" style="zoom:50%;" />
 
 ### 一、C/C++
 
@@ -125,5 +125,5 @@
 扫描下方二维码，回复关键字” **005**“，即可获取我精心收集的计算机经典图书Top50！
 
 <div align="center">
- <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205222330709.png" style="zoom:50%;" />
+ <img src="https://oss.interviewguide.cn/img/202205222330709.png" style="zoom:50%;" />
 </div>
