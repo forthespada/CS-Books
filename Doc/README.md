@@ -32,7 +32,7 @@
 
 <div align="center">
   <a href="https://interviewguide.cn/notes/01-guide/web-guide-reading.html">
-  <img src="https://oss.interviewguide.cn/img/202205161146636.png" target="_blank">
+  <img src="http://oss.interviewguide.cn/img/202205161146636.png" target="_blank">
   </a>
 </div>
 
@@ -59,7 +59,7 @@
 
 >点击下列目录直接跳转书籍所在类别，但有时目录跳转会失灵...如果没有没有正常跳转可以动动小手向下拉即可，全部的书籍都在本页面。 
 >
->笔者是一个人在维护这个仓库，本地大概是1100多本书了，需要一步步慢慢上传，我只能在闲暇时间慢慢更新，目前已经更新超过500+了，如果没有您要用的书，可以加一下**个人微信([coderxiu2](https://oss.interviewguide.cn/img/202204281304520.png))**，注明来意，我会慢慢添加上去的。一个人的力量是有限的，请谅解一下。
+>笔者是一个人在维护这个仓库，本地大概是1100多本书了，需要一步步慢慢上传，我只能在闲暇时间慢慢更新，目前已经更新超过500+了，如果没有您要用的书，可以加一下**个人微信([coderxiu2](http://oss.interviewguide.cn/img/202204281304520.png))**，注明来意，我会慢慢添加上去的。一个人的力量是有限的，请谅解一下。
 
 - [00、C语言](#00、C语言)
 - [01、C++](#01、C++)

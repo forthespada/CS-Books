@@ -10,7 +10,7 @@
 
 扫描下方二维码，回复关键字” **PDF**“，即可获取陌溪本人原创的Java学习笔记！
 
-<img src="https://oss.interviewguide.cn/img/202203261424019.png" style="width:400px;" />
+<img src="http://oss.interviewguide.cn/img/202203261424019.png" style="width:400px;" />
 
 
 
@@ -24,7 +24,7 @@
 
 <div align="center">
   <a href="https://interviewguide.cn/notes/01-guide/web-guide-reading.html">
-  <img src="https://oss.interviewguide.cn/img/202205161146636.png" target="_blank">
+  <img src="http://oss.interviewguide.cn/img/202205161146636.png" target="_blank">
   </a>
 </div>
 
