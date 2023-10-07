@@ -15,7 +15,7 @@
 扫描下方二维码，回复关键字”**面经合集**“，即可获取最新互联网校招面经合集！
 
 <div align="center">
- <img src="http://oss.interviewguide.cn/img/202205222330709.png" style="zoom:50%;" />
+ <img src="http://oss.interviewguide.cn/img/202310061834557.jpg" style="zoom:50%;" />
 </div>
 
 
@@ -125,5 +125,5 @@
 扫描下方二维码，回复关键字” **005**“，即可获取我精心收集的计算机经典图书Top50！
 
 <div align="center">
- <img src="http://oss.interviewguide.cn/img/202205222330709.png" style="zoom:50%;" />
+ <img src="http://oss.interviewguide.cn/img/202310061834557.jpg" style="zoom:50%;" />
 </div>
