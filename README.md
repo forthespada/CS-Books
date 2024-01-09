@@ -8,9 +8,22 @@
     <a href="https://github.com/forthespada/InterviewGuide"><img src="https://img.shields.io/badge/GitHub-计算机校招社招面试题汇总-critical.svg" alt="八股文">      <a href="https://interviewguide.cn/#/"><img src="https://img.shields.io/badge/推荐阅读-大佬好文-import.svg" alt="学习"></a>
            <a href="https://github.com/forthespada/CS-Books"><img src="https://img.shields.io/badge/PDF-免费计算机书籍-lightgrey.svg" alt="免费PDF"></a>
         </p>
+#### ⭐️编程资源网⭐️
+
+分享一个编程资源网，经常被问去哪里找资源这种问题，我就把我收藏的这个编程资源网分享给大家，其中有很多**编程资源**，都按照类别划分好了：
+
+- **编程语言：Java、C++、Golang、Python、前端、其他语言等**
+- **计算机基础：操作系统、计算机网络、数据结构与算法、数据库、设计模式；**
+- **电子书籍：开源仓库、电子书网站等**
+- ....
+
+![](http://oss.interviewguide.cn/img/202401092028317.png)
+
+**网站链接**：[https://www.cxypron.com](https://www.cxypron.com/home)
 
 
-**0**、🔥🔥🔥**最新分享，分享一个我自己开发的面试求职网站**
+
+#### 🔥🔥🔥分享一个我自己开发的面试求职网站
 
 <details><summary><a>👉查看关于该网站更多</a></summary></br>
 
@@ -18,7 +31,6 @@
 
 
 但很可惜，我并没有找到类似的网站。
-
 
 后来这个想法就一直在我心里深埋着，5月份我从字节跳动跳槽到某外企后，利用自己的业余休息时间，前后花了两三个月时间将之复现出来，前后端都是自己一个人写的，包括两个前端和一个后端的代码编写以及数据的收集和录入，希望这个InterviewGuide网站能让大家接下来的求职找工作更加顺利一些！
 </details>
