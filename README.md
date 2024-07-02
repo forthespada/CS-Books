@@ -10,15 +10,53 @@
         </p>
 
 
-**0**、🔥🔥🔥**最新分享，分享一个我自己开发的面试求职网站**
+
+#### 1、👉 如果国内访问Github网速较慢，我在码云也放了一份书籍资源，国内访问速度更快，<a href="https://gitee.com/ForthEspada/CS-Books" target="_blank">点此直达 </a>
+
+本仓库**持续更新**中，后续会陆续分享更多经典电子书，**强烈建议大家 Star 下本仓库**，下次找书可以直接 **Ctrl + F**，找书再也不愁 ！ 
+
+>简单附赠两个云服务器优惠信息： 
+>
+>【阿里云】云服务器狂欢特惠，**2核2G5M** 轻量级应用服务器 **60** 元/年【阿秀目前使用】   <a href="http://1v9.xyz/1NfKlv" target="_blank">传送门</a> 
+>
+>【腾讯云】轻量应用服务器限时秒杀，**1核2G6M** 限时首年**74**元/年【阿秀强烈推荐】 <a href="https://curl.qcloud.com/R21rJgZ7" target="_blank">传送门</a>
+
+
+
+####   2、🔥🔥🔥计算机校招求职学习网站
+
+我把**自己秋招时的上岸字节跳动的学习笔记**做成一个网站了，适用于**计算机校招应届生以及毕业三年之内的社招求职党**，<a href="https://interviewguide.cn/#/" target="_blank">传送门</a>
+
+<div align="center">
+  <a href="https://interviewguide.cn/notes/01-guide/web-guide-reading.html">
+  <img src="http://oss.interviewguide.cn/img/202205161146636.png" target="_blank">
+  </a>
+</div>
+
+#### 3、⭐️编程资源网⭐️
+
+分享一个编程资源网，经常被问去哪里找资源这种问题，我就把我收藏的这个编程资源网分享给大家，其中有很多**编程资源**，都按照类别划分好了：
+
+- **编程语言：Java、C++、Golang、Python、前端、其他语言等**
+- **计算机基础：操作系统、计算机网络、数据结构与算法、数据库、设计模式；**
+- **电子书籍：开源仓库、电子书网站等**
+- ....
+
+<img src="http://oss.interviewguide.cn/img/202401092028317.png" style="zoom:33%;" />
+
+**网站链接**：[https://tools.interviewguide.cn/home](https://tools.interviewguide.cn/home)
+
+
+
+#### 4、🔥🔥🔥分享一个我自己开发的面试求职网站
 
 <details><summary><a>👉查看关于该网站更多</a></summary></br>
+
 
 这个网站的由来是自己在2023年3月份找工作期间萌生的想法，当时自己希望根据筛选条件查看自己想要看的面试问题，比如可以查看行业为互联网，公司为字节跳动，考察岗位为后端，考察科目为数据结构，考察时间为最近一年之类的面试题有哪些？
 
 
 但很可惜，我并没有找到类似的网站。
-
 
 后来这个想法就一直在我心里深埋着，5月份我从字节跳动跳槽到某外企后，利用自己的业余休息时间，前后花了两三个月时间将之复现出来，前后端都是自己一个人写的，包括两个前端和一个后端的代码编写以及数据的收集和录入，希望这个InterviewGuide网站能让大家接下来的求职找工作更加顺利一些！
 </details>
@@ -43,38 +81,15 @@
 
 
 
-#### 1、👉 如果国内访问Github网速较慢，我在码云也放了一份书籍资源，国内访问速度更快，<a href="https://gitee.com/ForthEspada/CS-Books" target="_blank">点此直达 </a>
+#### 5、😄学习计算机八九年收集到的一些不错的资料免费分享，包括清华北大计算机课程资源等，[点此一键白嫖](https://interviewguide.cn/notes/07-resources/01-free/01-introduce.html)
 
-本仓库**持续更新**中，后续会陆续分享更多经典电子书，**强烈建议大家 Star 下本仓库**，下次找书可以直接 **Ctrl + F**，找书再也不愁 ！ 
+#### 6、👍🏻两位字节跳动后端研发工程师学习笔记，<a href="./Doc/other.md" target="_blank">点此一键免费获取</a> 
 
->简单附赠两个云服务器优惠信息： 
->
->【阿里云】云服务器狂欢特惠，**2核2G5M** 轻量级应用服务器 **60** 元/年【阿秀目前使用】   <a href="http://1v9.xyz/1NfKlv" target="_blank">传送门</a> 
->
->【腾讯云】轻量应用服务器限时秒杀，**1核2G6M** 限时首年**74**元/年【阿秀强烈推荐】 <a href="https://curl.qcloud.com/R21rJgZ7" target="_blank">传送门</a>
+#### 7、⭐计算机经典图书榜单Top50&互联网一二线中厂校招面试PDF合集，<a href="./Doc/当当Top50.md" target="_blank">点此一键免费获取</a> 
 
-####   2、🔥🔥🔥计算机校招求职学习网站
+#### 8、😜发现一个相当不错的计算机各类种语言&学科学习路线仓库， <a href="https://github.com/awesome-cs-community/developer-roadmap-zh-CN" target="_blank">点此查看</a>
 
-我把**自己秋招时的上岸字节跳动的学习笔记**做成一个网站了，适用于**计算机校招应届生以及毕业三年之内的社招求职党**，<a href="https://interviewguide.cn/#/" target="_blank">传送门</a>
-
-<div align="center">
-  <a href="https://interviewguide.cn/notes/01-guide/web-guide-reading.html">
-  <img src="http://oss.interviewguide.cn/img/202205161146636.png" target="_blank">
-  </a>
-</div>
-
-
-#### 3、😄学习计算机八九年收集到的一些不错的资料免费分享，包括清华北大计算机课程资源等，[点此一键白嫖](https://interviewguide.cn/notes/07-resources/01-free/01-introduce.html)
-
-#### 4、❤️走心内推！字节跳动核心岗位在职员工校招社招内推方式，[传送门](https://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=2247507684&idx=1&sn=72aa278890931b4551391f5f008fad60&chksm=ce262299f951ab8fa668ab148c94296fe8e2baf712bd65c2495897d03ceb8e70e1ce6a8b9648&token=867943050&lang=zh_CN#rd)
-
-#### 5、👍🏻两位字节跳动后端研发工程师学习笔记，<a href="./Doc/other.md" target="_blank">点此一键免费获取</a> 
-
-#### 6、⭐计算机经典图书榜单Top50&互联网一二线中厂校招面试PDF合集，<a href="./Doc/当当Top50.md" target="_blank">点此一键免费获取</a> 
-
-#### 7、😜发现一个相当不错的计算机各类种语言&学科学习路线仓库， <a href="https://github.com/awesome-cs-community/developer-roadmap-zh-CN" target="_blank">点此查看</a>
-
-#### 8、赞赏
+#### 9、赞赏
 
 <div align=left>
     <p>这些书籍基本都是我从一个盗版电子书网站上收集到的，网址是：kanshuy1234.com，现在分享出来希望能对大家有所帮助，自己也花了很久时间整理出来的。<br>
@@ -86,9 +101,10 @@
 
 
 
+
 >点击下列目录直接跳转书籍所在类别，但有时目录跳转会失灵...如果没有没有正常跳转可以动动小手向下拉即可，全部的书籍都在本页面。 
 >
->笔者是一个人在维护这个仓库，本地大概是1100多本书了，需要一步步慢慢上传，我只能在闲暇时间慢慢更新，目前已经更新超过500+了，如果没有您要用的书，可以加一下**个人微信([coderxiu2](http://oss.interviewguide.cn/img/202204281304520.png))**，注明来意，我会慢慢添加上去的。一个人的力量是有限的，请谅解一下。
+>笔者是一个人在维护这个仓库，本地大概是1100多本书了，需要一步步慢慢上传，我只能在闲暇时间慢慢更新，目前已经更新超过500+了，如果没有您要用的书，可以加一下**个人微信([coderxiuxiu](http://oss.interviewguide.cn/img/202403161950192.png))**，注明来意，我会慢慢添加上去的。一个人的力量是有限的，请谅解一下。
 
 - [00、C语言](#00c语言)
 - [01、C++](#01c)
