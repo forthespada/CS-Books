@@ -12,7 +12,7 @@
 
 
 
-#### 1、👉 如果国内访问Github网速较慢，我在码云也放了一份书籍资源，国内访问速度更快，<a href="https://gitee.com/ForthEspada/CS-Books" target="_blank">点此直达 </a>
+#### 1、👉 如果国内访问Github网速较慢，我在其余平台也放了一份书籍资源，国内访问速度更快，<a href="https://gitee.com/ForthEspada/CS-Books" target="_blank">码云 </a>、<a href="https://gitcode.com/forthespada/CS-Books" target="_blank">gitcode </a>
 
 本仓库**持续更新**中，后续会陆续分享更多经典电子书，**强烈建议大家 Star 下本仓库**，下次找书可以直接 **Ctrl + F**，找书再也不愁 ！ 
 
