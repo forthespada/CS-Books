@@ -4,7 +4,7 @@
 
 我的实验室小伙伴陌溪在研究生期间做的一个开源的微服务博客项目[蘑菇博客](https://gitee.com/moxi159753/mogu_blog_v2)，项目中运用了很多主流Java技术，如 SpringBoot、SpringCloud，ElasticSearch、Solr、RabbitMQ、Docker等等，这个开源项目也顺利的帮助陌溪拿到**字节跳动**，**滴滴出行**等大厂的 **提前批Offer**，如果大家想要充实自己的简历上的项目经历，非常值得看一看。
 
-同时还有一份陌溪**校招**时候的写的**笔记仓库** [LearningNotes](https://gitee.com/moxi159753/LearningNotes)，大家可以了解一下，欢迎 **Star** 支持⭐ 
+同时还有一份陌溪**校招**时候的写的**笔记仓库** [LearningNotes](https://github.com/moxi624/LearningNotes)，大家可以了解一下，欢迎 **Star** 支持⭐ 
 
 ##### 笔记下载方式
 
