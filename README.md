@@ -42,9 +42,9 @@
     <p>这些书籍基本都是我从一个盗版电子书网站上收集到的，网址是：kanshuy1234.com，现在分享出来希望能对大家有所帮助，自己也花了很久时间整理出来的。<br>
       如果觉得本仓库有用，赏赐一块钱，买杯奶茶喝可好？感谢您了~</p>
 <figure class="half" align="center">
-    <img src="https://oss.interviewguide.cn/img/202511062053852.png" style="right;zoom: 40%;" />
-                                                                                                                        <img src="https://oss.interviewguide.cn/img/202511062054242.png"  style="right;zoom: 40%;" />
-                                                                                                                         </figure></div>
+ <img src="./img/zhifubao.png" width="200" height="200"  />
+    <img src="./img/wechat.png"  width="200" height="200"  />                                                                                                                        
+</figure></div>
 
 
 
